@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi there 👋  
+
+I’m exploring how modern machine learning tools can be built from first principles and applied to various problems.
+
+📌 Repositories include:
+- Neural networks and generative models implemented in PyTorch  
+- Educational notebooks focused on understanding, not just using, deep learning  
+- Hadron correlator construction and tensor contraction tools for physics research  
+
+Feel free to browse, use, or reach out.
 
 <!--
 **Herzallah15/Herzallah15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

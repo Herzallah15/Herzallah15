@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋 I'm Herzallah Alharazin, a postdoc in theoretical physics at Ruhr University Bochum.
 
 I work on hadron and nuclear physics, and I build generative models (mostly diffusion models) for physics problems where data are sparse, noisy, or expensive to sample.
 
@@ -23,7 +23,7 @@ Paper: [Phys. Rev. D 114, 014522](https://arxiv.org/abs/2602.09045) · Code: [Di
 
 ## Lattice QCD and hadron structure
 
-- **Correlator construction and tensor contraction tools** for multi-hadron lattice calculations
+- **Correlator construction and tensor contraction tools** for multi-hadron lattice calculations: [Hadrontractions](https://github.com/Herzallah15/Hadrontractions), [PyTorTractor](https://github.com/Herzallah15/PyTorTractor)
 - **Chiral EFT in an external gravitational field**: gravitational form factors of the nucleon and the Δ, and the p → Δ⁺ transition. [Papers on INSPIRE](https://inspirehep.net/authors/2147029)
 
 ## Built from first principles
